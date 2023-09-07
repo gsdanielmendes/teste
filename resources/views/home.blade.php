@@ -6,6 +6,8 @@
     @parent
  
     <p>This is appended to the master sidebar.</p>
+
+    <h1>oi</h1>
 @endsection
  
 @section('content')
